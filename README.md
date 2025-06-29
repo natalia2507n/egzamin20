@@ -1,0 +1,2 @@
+# egzamin20
+egzam
