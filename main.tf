@@ -19,3 +19,5 @@
 - name: Test Docker image
   run: |
     docker run --name test-container -d -p 8000:8000 the-button:${{ github.sha }}
+
+ logging: enabled: true
